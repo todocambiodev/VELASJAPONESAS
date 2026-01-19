@@ -272,7 +272,8 @@ function buscar_patrones(velas) {
     return patrones_encontrados;
 }
 
-module.exports = { 
+module.exports = {
+    Vela,
     es_estrella_fugaz, 
     es_hombre_colgado, 
     es_martillo, 
