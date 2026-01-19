@@ -1,5 +1,5 @@
 {
-  "name": "velasJaponesas",
+  "name": "velasjaponesas",
   "version": "1.0.0",
   "description": "Identifica patrones en las velas japonesas de los mercados financieros",
   "main": "index.js",
