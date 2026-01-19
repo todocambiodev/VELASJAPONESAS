@@ -271,3 +271,22 @@ function buscar_patrones(velas) {
     }
     return patrones_encontrados;
 }
+
+module.exports = { 
+    es_estrella_fugaz, 
+    es_hombre_colgado, 
+    es_martillo, 
+    es_doji_lapida, 
+    es_doji_dragonfly,
+    es_doji_piernas_largas, 
+    es_envolvente_alcista, 
+    es_envolvente_bajista, 
+    es_nube_oscura,
+    es_nube_clara,
+    es_estrella_del_atardecer,
+    es_estrella_del_amanecer,
+    es_tres_cuervos_negros,
+    es_tres_soldados_blancos,
+    es_tres_metodos_bajistas,
+    es_tres_metodos_alcistas
+}
